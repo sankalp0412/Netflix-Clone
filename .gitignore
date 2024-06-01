@@ -6,6 +6,8 @@ netflix-ui/node_modules
 .pnp.js
 .yarn/install-state.gz
 
+netflix-ui/src/utils/
+
 # testing
 /coverage
 
